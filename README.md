@@ -7,9 +7,16 @@ I upgrade myself day-by-day with different kinds of technical skills because I b
 ◆ 𝙈𝙔 𝙏𝙀𝘾𝙃𝙉𝙊𝙇𝙊𝙂𝙄𝙀𝙎
 
 • 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 - Python3, C++ and more
+
 • 𝗖𝗹𝗼𝘂𝗱 - AWS, Openstack, GCP Basics
+
 • 𝗗𝗲𝘃𝗢𝗽𝘀 - Docker, Podman, Kubernetes, Jenkins, Git, ELK, Prometheus, Grafana, Groovy, Terraform and more
+
 • 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 - Data Analysis, Data Visualisation, Machine Learning, Computer Vision and more
+
 • 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 - HTML, CSS Basics, Bootstrap, Java Script Basics
+
 • 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 - MySql
+
 • 𝗢𝘁𝗵𝗲𝗿 - Flutter, Linux, Data Structures, Networking and more 
+
