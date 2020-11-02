@@ -34,13 +34,10 @@ A computer engineer passionate about Data Science :bar_chart:. I like automating
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/whytedork"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:hemantgangwar9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://teknoboost.wordpress.com"><img src="https://juststickers.in/wp-content/uploads/2016/05/wordpress-shape-cut-badge.png" width="100" height="30"></img></a>
 <a target="_blank" href="https://teknoboost.wordpress.com"><img src="https://freepngimg.com/thumb/wordpress_logo/6-2-wordpress-logo-high-quality-png.png" width="120" height="40"></img></a>
 <a target="_blank" href="https://twitter.com/whytedork"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
-
-![Hemant's github stats](https://github-readme-stats.vercel.app/api?username=whytedork&show_icons=true&theme=radical)
 
  <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
