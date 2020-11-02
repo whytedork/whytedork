@@ -4,7 +4,7 @@ A computer engineer passionate about Data Science :bar_chart:. I like automating
 
 - 🔭 I’m currently working on:
 	- Monitoring and Analysis of Real Time Logs of Apache Web Server
-- :bulb: I'm interested in all technologies data: **Big Data, Cloud, DevOps, Machine Learning and Data Science**
+- :bulb: I'm interested in all technologies including: **Big Data, Cloud, DevOps, Machine Learning and Data Science**
 - 💬 Talk to me about trending technologies, anything that interests you.
 - 🌱 I’m currently pursuing **Computer Science and Engineering**.
 
@@ -17,6 +17,7 @@ A computer engineer passionate about Data Science :bar_chart:. I like automating
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
+	<img title="C++" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" />
 </p>
 
 
@@ -37,7 +38,7 @@ A computer engineer passionate about Data Science :bar_chart:. I like automating
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/whytedork"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:hemantgangwar9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://teknoboost.wordpress.com"><img src="https://juststickers.in/wp-content/uploads/2016/05/wordpress-shape-cut-badge.png" width="70" height="40"></img></a>
+<a target="_blank" href="https://teknoboost.wordpress.com"><img src="https://juststickers.in/wp-content/uploads/2016/05/wordpress-shape-cut-badge.png" width="100" height="30"></img></a>
 <a target="_blank" href="https://twitter.com/whytedork"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
