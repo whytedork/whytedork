@@ -17,12 +17,12 @@ A computer engineer passionate about Data Science :bar_chart:. I like automating
 	<img title="HTML" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" width="40" height="40" />
 	
 </p>
-- 🔭 I’m currently working on the integration of Python, AWS and Linux.
-- 🌱 I’m currently learning Big Data, Data Science, Cloud and DevOps.
-- 💬 Ask me about AWS, Python, C++, MLOps, Docker, jenkins and more
-- 📫 How to reach me: Not Possible !
--->
-    
+<p align="center">
+- 🔭 I’m currently working on the integration of Python, AWS and Linux.</br>
+- 🌱 I’m currently learning Big Data, Data Science, Cloud and DevOps</br>
+- 💬 Ask me about AWS, Python, C++, MLOps, Docker, jenkins and more</br>
+- 📫 How to reach me: Not Possible !  </br>
+</p>
     
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 <hr>
