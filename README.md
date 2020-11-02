@@ -37,7 +37,9 @@ A computer engineer passionate about Data Science :bar_chart:. I like automating
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br>	
-	                              ![Hemant's github stats](https://github-readme-stats.vercel.app/api?username=whytedork&show_icons=true&theme=radical)
+	
+	             ![Hemant's github stats](https://github-readme-stats.vercel.app/api?username=whytedork&show_icons=true&theme=radical)
+			     
 <a target="_blank" href="https://www.linkedin.com/in/whytedork"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:hemantgangwar9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://teknoboost.wordpress.com"><img src="https://freepngimg.com/thumb/wordpress_logo/6-2-wordpress-logo-high-quality-png.png" width="120" height="40"></img></a>
