@@ -1,12 +1,11 @@
-### Hi there 👋 I'm Thomas George Thomas,
+### Hi there 👋 I'm Hemant Gangwar,
 
-A software engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A computer engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 - 🔭 I’m currently working on:
 	- Monitoring and Analysis of Real Time Logs of Apache Web Server
-	- Research In Hadoop
-- :bulb: I'm interested in all technologies data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
+- :bulb: I'm interested in all technologies data: **Big Data, Cloud, DevOps, Machine Learning and Data Science**
+- 💬 Talk to me about trending technologies, anything that interests you.
 - 🌱 I’m currently pursuing **Computer Science and Engineering**.
 
 ### My skills include
@@ -22,7 +21,7 @@ A software engineer passionate about Data Science :bar_chart:. I like automating
 
 
 - 🔭 I’m currently working on the integration of Python, AWS and Linux.
-- 🌱 I’m currently learning Big Data, Data Science and DevOps.
+- 🌱 I’m currently learning Big Data, Data Science, Cloud and DevOps.
 - 💬 Ask me about AWS, Python, C++, MLOps, Docker, jenkins and more
 - 📫 How to reach me: Not Possible !
 -->
@@ -36,10 +35,10 @@ A software engineer passionate about Data Science :bar_chart:. I like automating
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/whytedork"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:hemantgangwar9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://teknoboost.wordpress.com"><img src="https://juststickers.in/wp-content/uploads/2016/05/wordpress-shape-cut-badge.png"></img></a>
+<a target="_blank" href="https://twitter.com/whytedork"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
 
