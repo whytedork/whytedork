@@ -1,5 +1,3 @@
-
-@@ -1,46 +1,46 @@
 ### Hi there 👋 I'm Hemant Gangwar,
 A computer engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 - 🔭 I’m currently working on:
@@ -41,4 +39,5 @@ A computer engineer passionate about Data Science :bar_chart:. I like automating
 <a target="_blank" href="https://twitter.com/whytedork"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
+
 ![Hemant's github stats](https://github-readme-stats.vercel.app/api?username=whytedork&show_icons=true&theme=radical)
