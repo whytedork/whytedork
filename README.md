@@ -17,7 +17,9 @@ A computer engineer passionate about Data Science :bar_chart:. I like automating
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
-	<img title="C++" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" />
+	<img title="Docker" alt="Docker" src="https://blog.xebialabs.com/wp-content/uploads/2019/05/docker-e1558536954364.jpg" width="40" height="40" />
+	<img title="HTML" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" width="40" height="40" />
+	
 </p>
 
 
