@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Hemant Gangwar,
 A computer engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
-- 🔭 I’m currently working on:
+- 🔭 My major project of engineering was :
 	- Monitoring and Analysis of Real Time Logs of Apache Web Server
 - :bulb: I'm interested in all technologies including: **Big Data, Cloud, DevOps, Machine Learning and Data Science**
 - 💬 Talk to me about trending technologies, anything that interests you.
-- 🌱 I’m currently pursuing **Computer Science and Engineering**.
 ### My skills include
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
